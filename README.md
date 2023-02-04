@@ -7,13 +7,7 @@ Ademas para ir de A a B deberá existir solo un camino posible, no se te permite
 > Ejemplo:
 >
 > n = 11 (* = muro, A = inicio, B = fin)  
-
-
-The action of every agent <br />
-  into the world <br />
-starts <br />
-  from their physical selves. <br />
-
+>![example](/labyrinth_example.PNG)
 
 Implementar la función: createMaze2D( n ) 
 
